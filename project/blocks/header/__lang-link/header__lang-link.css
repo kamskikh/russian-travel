@@ -8,7 +8,7 @@
 }
 
 .header__lang-link:first-of-type {
-    border: 1px solid #FFFFFF
+    border-bottom: 1px solid #FFFFFF
 }
 
 .header__lang-link:last-of-type {
